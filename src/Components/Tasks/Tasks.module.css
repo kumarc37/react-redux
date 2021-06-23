@@ -1,0 +1,10 @@
+.EachTile{
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #bdbcbc;
+    display: flex;
+}
+.FlexClass{
+    width: 100%;
+}
